@@ -10,14 +10,17 @@ http://snakemake.readthedocs.io/en/stable/tutorial/setup.html
 
 1. Clone this repository to your working environment
 
-```https://github.com/kramundson/nico-snp
-cd nico-snp```
+```
+https://github.com/kramundson/nico-snp
+cd nico-snp
+```
 
 2. Build and activate a conda environment using the included environment.yaml file.
 As an example, I named the environment nico-snp, but you can call it whatever you want.
 
 ```conda env create --name nico-snp -f environment.yaml
-source activate nico-snp```
+source activate nico-snp
+```
 
 3. Change units.tsv to suit your needs
 
